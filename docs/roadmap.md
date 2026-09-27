@@ -7,7 +7,7 @@
 | № | Этап | Результат | Статус |
 |---|---|---|---|
 | 1 | Requirements | Требования, user stories, acceptance criteria, API-контракт | Готово |
-| 2 | Database design | ERD, SQL-миграции, индексы и проект решения гонок | В работе |
+| 2 | Database design | ERD, SQL-миграции, индексы и проект решения гонок | Готово; SQL проверен на PostgreSQL |
 | 3 | Project initialization | Java 21, Spring Boot, Maven Wrapper, зависимости, конфигурация | Запланировано |
 | 4 | Entities | User/Room/Booking, enum, auditing | Запланировано |
 | 5 | Repositories | Запросы, pagination, метод блокировки Room | Запланировано |
